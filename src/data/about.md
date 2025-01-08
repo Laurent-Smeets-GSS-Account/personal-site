@@ -37,7 +37,7 @@ When I’m not fixing bugs in code, you’ll find me satisfying my travel bug in
 
 - Winner 2023 UN Datathon in categories Vest Overall Team Best Presentation, Best Visuals, Best Africa Team and Best Youth Team
 -Mentored staff from the Zimbabwe Statistical Office and the Ivory Coast Statistical Office in the application of data science for official statistics, as part of the UK ONS International Data Science Accelerator Programme" in 2022 and 2023
-- Started a personal blog during Covid-19 I contribute to when I have time, energy, and the urge to do something creative behind a screen [www.ghanadatastuff.com](https://ghanadatastuff.com)
+- Started a personal blog during Covid-19 I contribute to when I have time, energy, and the urge to do something creative behind a screen: www.ghanadatastuff.com.
 - Winner of the 2020 Bigsurv Data Challenge. With a team of (PhD) students from China, India, and Germany, we won the 2020 BigSurv Data Challenge, using Machine Learning Algorithms to predict travel purposes from crowd-labelled trip data
 - Awarded the best delegate at the 2014 BIMUN
 - Represented the Netherlands as a delegate at the ASEF/ASEM 2016 conference in Ulaanbaatar, Mongolia
