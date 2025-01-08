@@ -23,7 +23,7 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        Welcome to my website. Please feel free to read more{' '}
+        Welcome to my personal website. Please feel free to read more{' '}
         <Link to="/about">about me</Link>, or you can check out my{' '}
         <Link to="/resume">resume</Link>, view <Link to="/stats">some statistics</Link>, or{' '}
         {/* <Link to="/projects">projects</Link>,{' '} */}
