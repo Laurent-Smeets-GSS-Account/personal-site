@@ -35,12 +35,45 @@
     }
   }
 
+  .jobs-container h4{
+    font-weight: normal  !important;
+    margin-bottom: 0.1em;
+    text-transform: none;
+    letter-spacing: 0.16em;
+    font-size: 1em;
+    margin-top: 1em;
+    text-transform: none !important; /* Overrides all other rules */
+  }
+
   .jobs-container {
+  
+    .employer {
+      text-transform: none !important;
+      padding-top: 0.3em;
+      margin-bottom: 0em;
+      text-align: right; /* Align text to the right */
+
+    }
+
+    .employer {
+      display: flex;
+      justify-content: space-between; /* Ensures left and right alignment */
+      align-items: center; /* Aligns items vertically */
+    }
+    
+    .employer-name {
+      text-align: left; /* Default left alignment */
+    }
+    
+    .employer-details {
+      text-align: right; /* Right alignment */
+    }
+
+ 
     .points {
       li {
-        margin: 0;
-        padding: 0;
-        font-size: 0.9em;
+        margin-bottom: 0.1em;
+        text-transform: none;
       }
     }
   }
@@ -89,20 +122,31 @@
 .degree-container {
   h4 {
     font-weight: normal;
+    text-transform: none;
   }
+  
 
   .degree {
     margin-bottom: 0.1em;
     text-transform: none;
     letter-spacing: 0.16em;
-    font-size: 0.8em;
+    font-size: 0.9em;
+    padding-top: 1em;
+
   }
 
   .school {
     text-transform: none;
     padding-top: 0.3em;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
   }
+
+  .points {
+    margin-bottom: 0.1em;
+    text-transform: none;
+ }
+
+  
 }
 
 .courses .course-number {

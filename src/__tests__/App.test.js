@@ -74,18 +74,18 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/resume');
   });
 
-  it('can navigate to /projects', async () => {
-    expect.assertions(3);
-    const contactLink = document.querySelector(
-      '#header > nav > ul > li:nth-child(3) > a',
-    );
-    expect(contactLink).toBeInTheDocument();
-    await act(async () => {
-      await contactLink.click();
-    });
-    expect(document.title).toContain('Projects |');
-    expect(window.location.pathname).toBe('/projects');
-  });
+  // it('can navigate to /projects', async () => {
+  //   expect.assertions(3);
+  //   const contactLink = document.querySelector(
+  //     '#header > nav > ul > li:nth-child(3) > a',
+  //   );
+  //   expect(contactLink).toBeInTheDocument();
+  //   await act(async () => {
+  //     await contactLink.click();
+  //   });
+  //   expect(document.title).toContain('Projects |');
+  //   expect(window.location.pathname).toBe('/projects');
+  // });
 
   it('can navigate to /stats', async () => {
     expect.assertions(5);

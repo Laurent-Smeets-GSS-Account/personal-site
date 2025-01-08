@@ -4,12 +4,12 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Personal from '../components/Stats/Personal';
-import Site from '../components/Stats/Site';
+// import Site from '../components/Stats/Site';
 
 const Stats = () => (
   <Main
     title="Stats"
-    description="Some statistics about Michael D'Angelo and mldangelo.com"
+    description="Some statistics about Laurent Smeets and mldangelo.com"
   >
     <article className="post" id="stats">
       <header>
@@ -20,7 +20,10 @@ const Stats = () => (
         </div>
       </header>
       <Personal />
-      <Site />
+      <div className="gif-container" style={{ textAlign: 'center', marginTop: '20px' }}>
+        <img src="images\projects\travel_map.gif" alt="Countries Visited" style={{ maxWidth: '100%', height: 'auto' }} />
+      </div>
+      {/* <Site /> */}
     </article>
   </Main>
 );
