@@ -15,7 +15,7 @@ const Index = () => (
           </h2>
           <p>
             Hello! Welcome on my online resume.
-            I am life-long traveller with a dream to visit every country in the world and
+            I am a life-long traveller with a dream to visit every country in the world and
             a passion for all things data.
             Currently looking for interesting data science work.
           </p>
