@@ -60,9 +60,9 @@ const work = [
     name: 'Statistics Netherlands (CBS)',
     position: 'Research Intern',
     url: 'https://www.statsghana.gov.gh/',
-    location: 'The Hague, Netherlands"',
+    location: 'The Hague, Netherlands',
     Dates: '2018 - 2019',
-    summary: 'Worked on automatic transport mode classification from GPS data using machine learning models, detailed in [Automatic Travel Mode Prediction in a National Travel Survey (Laurent Smeets, Peter Lugtig, Barry Schouten, CBS Discussion Paper, 2019)](https://www.cbs.nl/‑/media/_pdf/2019/51/dp‑smeets‑lugtig‑schouten‑‑‑vervoermiddelpredictie.pdf).',
+    summary: 'Worked on automatic transport mode classification from GPS data using machine learning models, detailed in [Automatic Travel Mode Prediction in a National Travel Survey (Laurent Smeets, Peter Lugtig, Barry Schouten, CBS Discussion Paper, 2019)](https://www.cbs.nl/nl-nl/achtergrond/2019/51/geautomatiseerde-voorspelling-van-vervoermiddel).',
   },
   {
     name: 'Utrecht University',

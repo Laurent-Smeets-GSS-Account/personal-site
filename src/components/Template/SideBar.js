@@ -27,7 +27,7 @@ const SideBar = () => (
         official statistics, policy, and development.
         Think of me as the one who brings all those circles together in
         a Venn diagram—using innovative tools and out-of-the-box data
-        sources to turn problems into opportunities for growth and change.
+        sources to solve problems and create new ones.
       </p>
       <ul className="actions">
         <li>
