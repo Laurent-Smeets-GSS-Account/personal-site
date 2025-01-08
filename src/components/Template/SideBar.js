@@ -28,6 +28,7 @@ const SideBar = () => (
         Think of me as the one who brings all those circles together in
         a Venn diagram—using innovative tools and out-of-the-box data
         sources to solve problems and create new ones.
+        I have been doing this professionally and as good past-time for 7+ years now.
       </p>
       <ul className="actions">
         <li>
