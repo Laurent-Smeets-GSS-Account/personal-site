@@ -23,12 +23,11 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Laurent. I am a{' '}
-        I’m a data nerd who thrives at the intersection of data science,
-        official statistics, policy, and development.
-        Think of me as the one who brings all those circles together in
-        a Venn diagram—using innovative tools and out-of-the-box data
-        sources to solve problems and create new ones.
-        I have been doing this professionally and as good past-time for 7+ years now.
+        proud data nerd who works at the center of a Venn diagram
+        connecting data science, policy, statistics and development.
+        For over 7 years, I’ve explored this space both professionally
+        and out of personal passion, using innovative tools and non-traditional
+        data sources to tackle complex problems with creativity.
       </p>
       <ul className="actions">
         <li>

@@ -5,7 +5,7 @@ const degrees = [
     link: 'https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss',
     year: '2017 - 2019',
     highlights: [
-      'Research Master in Methodology and Statistics for the Behavioural, Biomedical, and Social Science (final grade: 8.3, cum laude)',
+      'Research Master in Methodology and Statistics for the Behavioural, Biomedical, and Social Sciences (final grade: 8.3, cum laude)',
       'Thesis topic: Automatic Transport Mode Prediction in a National Travel Survey',
       'Concurrently completed the EMOS Master',
       'Selected for the Utrecht University Honours Programme for graduate students',
